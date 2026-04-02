@@ -1,0 +1,41 @@
+{
+  "black bile ritual": {
+    "id": "black bile ritual",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "black bile ritual",
+        "type": "hymn",
+        "cost": 0,
+        "image": "https://github.com/mathuin99/Towers/blob/main/Black%20bile%20ritual.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "black bile ritual",
+    "type": "hymn",
+    "cost": 0,
+    "color": "black"
+  },
+  "balefire chimera": {
+    "id": "balefire chimera",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "balefire chimera",
+        "type": "actor",
+        "cost": "1",
+        "image": "https://github.com/mathuin99/Towers/blob/main/Balefire%20Chimera.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "balefire chimera",
+    "type": "actor",
+    "cost": "1",
+    "color": "red",
+    "initiative": "1",
+    "speed": "0",
+    "ATK": "1",
+    "VIG": "3",
+    "tribe": "chimera"
+  }
+}
